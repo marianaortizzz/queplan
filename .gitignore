@@ -1,0 +1,8 @@
+# Salida de compilación de NetBeans/Ant (se regenera, no va al repo)
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Config local y secretos de NetBeans — ¡aquí se guardan contraseñas del servidor!
+nbproject/private/
