@@ -12,7 +12,7 @@ public class Conexion {
             + "&serverTimezone=America/Mexico_City"
             + "&characterEncoding=UTF-8";
     private static final String USUARIO  = "root";
-    private static final String PASSWORD = "81233202";
+    private static final String PASSWORD = "root";
 
     // Bloque estático: se ejecuta UNA vez cuando se carga la clase.
     // Fuerza al driver de MySQL a registrarse en DriverManager.
